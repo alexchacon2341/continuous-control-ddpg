@@ -76,6 +76,8 @@ Using these settings, the environment was solved in 930 episodes with an average
 
 ![Plot][image4]
 
+Similar to the algorithm itself, the values given to the actor and critic were largely lifted from the Lillicrap example to best compare across results. For the actor, 2 hidden layers were used with 400 units in each layer. For the critic, 2 hidden layers were used with 400 units in the first layer and 300 units in the second layer. TanH was used as the activation function for both the actor and critic in order to bound the actions, as in the Lillicrap research.
+
 ### Suggestions
 
 While the agent was able to converge on a policy that solved the environment, the learning process was quite slow, taking nearly five hours to complete. An extension of DDPG may still improve the learning rate. Although the environment was solved for a single agent, modifications that allow the DDPG model to train with multiple agents may speed learning, as the agents would be able to gather experiences concurrently and share their outcomes.
