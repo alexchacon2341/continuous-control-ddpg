@@ -10,6 +10,10 @@ This project is an example of deep reinforcement learning using a recurrent neur
 
 In the example, an agent is trained using Deep Deterministic Policy Gradient (DDPG) over a series of episodes. It begins with no knowledge of its environment, and first learns only by taking actions at random. The agent's experiences are catalogued and it gradually begins making decisions to maximize its reward instead of choosing random actions. The environment is solved once the agent achieves an average score of +30 over 100 consecutive episodes.
 
+### How to Run
+
+If you already have a working Python/ML-Agents environment, simply download all files in the p2-continuous-controlfolder open the attached workbook file named "Continuous_Control.ipynb" in Jupyter. After this, run the code cells in the workbook's first two sections to et up your own environment and its agent. After this is complete, you can train your own agent and save its weights to the checkpoint_actor.pth and checkpoint_critic_pth files by running the code in the third section.
+
 ### Environment
 
 In this environment, a double-jointed arm can move to target locations.
