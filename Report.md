@@ -76,7 +76,7 @@ Using these settings, the environment was solved in 930 episodes with an average
 
 ![Plot][image4]
 
-Similar to the algorithm itself, the values given to the actor and critic were largely lifted from the Lillicrap example to best compare across results. For the actor, 2 hidden layers were used with 400 units in each layer. For the critic, 2 hidden layers were used with 400 units in the first layer and 300 units in the second layer. TanH was used as the activation function for both the actor and critic in order to bound the actions, as in the Lillicrap research.
+Similar to the algorithm itself, the values given to the actor and critic were largely lifted from the Lillicrap example to best compare across results. For the actor, 2 hidden layers were used with 400 units in each layer. For the critic, 2 hidden layers were used with 400 units in the first layer and 300 units in the second layer. TanH was used as the activation function for the actor in order to bound the actions, as in the Lillicrap research.
 
 ### Suggestions
 
