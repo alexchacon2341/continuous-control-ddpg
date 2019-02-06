@@ -3,7 +3,7 @@
 [image1]: https://lh3.googleusercontent.com/-QrAga9tv-Cc/XDzSj06OyHI/AAAAAAAAGE0/LEj_Vhkoj6whz364EEdYtWJyziDh41rvACL0BGAs/w530-d-h76-n-rw/Screen%2BShot%2B2019-01-14%2Bat%2B1.17.23%2BPM.png "DPG Algorithm"
 [image2]: https://lh3.googleusercontent.com/-LKAjjGLELyw/XDzVZ56AIBI/AAAAAAAAGGE/vNo3E7Z1wmI9Q5XwInKWIdE_WeCn4pHrgCL0BGAs/w530-d-h350-n-rw/Screen%2BShot%2B2019-01-14%2Bat%2B1.29.19%2BPM.png "DDPG Algorithm"
 [image3]: https://lh3.googleusercontent.com/-kVrtQ3_Ldx0/XD62lEDCCuI/AAAAAAAAGHY/zTigI_psQXc8TtuenfJWsKsPITSWKnMwwCL0BGAs/w530-d-h294-n-rw/Screen%2BShot%2B2019-01-15%2Bat%2B11.40.52%2BPM.png "Hyperparameters"
-[image4]: https://lh3.googleusercontent.com/-yY-UV3qBE-s/XD62fGD1b7I/AAAAAAAAGHE/DP1D48JAqcwqI8gWTvhfvnLiRk-CdjajQCL0BGAs/w530-d-h345-n-rw/Screen%2BShot%2B2019-01-15%2Bat%2B11.30.40%2BPM.png "Plot"
+[image4]: https://lh3.googleusercontent.com/-lwMYcCmNYbk/XFtlrPIWF4I/AAAAAAAAGJs/0iCagMK3sWInfBwwIEMYtvg5KWztxH7iwCL0BGAs/w663-d-h455-n-rw/Continuous%2BControl%2BPlot%2B%25281%2529.png "Plot"
 
 # Report
 
