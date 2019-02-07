@@ -80,4 +80,4 @@ Similar to the algorithm itself, the values given to the actor and critic were l
 
 ### Suggestions
 
-While the agent was able to converge on a policy that solved the environment, the learning process was quite slow, taking nearly five hours to complete. An extension of DDPG may still improve the learning rate. Although the environment was solved for a single agent, modifications that allow the DDPG model to train with multiple agents may speed learning, as the agents would be able to gather experiences concurrently and share their outcomes.
+While the agent was able to converge on a policy that solved the environment, the learning process was quite slow, taking over an hour to complete. An extension of DDPG may still improve the learning rate. Although the environment was solved for a single agent, modifications that allow the DDPG model to train with multiple agents may speed learning, as the agents would be able to gather experiences concurrently and share their outcomes.
